@@ -31,7 +31,7 @@ public class Register extends HttpServlet {
 		String g = request.getParameter("gender");
 		String e = request.getParameter("Email");
 		String p = request.getParameter("Password");
-		String ph = request.getParameter("Phone_Number");
+		String ph = request.getParameter("9989025150");
 		String c = request.getParameter("india");
 		String a = request.getParameter("Address");
 		try {
